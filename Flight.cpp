@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std
-int main(){
+class Flight 
+{
 	
 }
+int main()
+{
