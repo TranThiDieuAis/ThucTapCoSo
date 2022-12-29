@@ -1,0 +1,17 @@
+- Hệ thống này là hệ thống đặt chỗ đường hàng không. Hệ Thống này dung để quản lí khách hang, quản trị viên, đặt và hủy chuyến bay.
+- Em tạo 9 màn hình, mỗi màn hình là một chương trình(chỉ in ra màn hình):
+Màn hình Đăng kí khách hàng.
+Màn hình Đăng nhập khách hàng gồm: 
+Màn hình đặt chuyến bay.
+Màn hình cập nhật data.
+Màn hình xóa tài khoản.
+Màn hình lịch bay ngẫu nhiên.
+Màn hình hủy chuyến bay.
+Màn hình chuyến bay do khách hàng đăng kí.
+Màn hình: Quản trị viên đăng kí và đăng nhập.
+- Class flight:
++ Em khởi tạo các biến:
++ Đăng kí(thêm khách hàng) và trở lại chương trình.
++ Tạo file customer.dat để đọc ghi file khách hàng.
+- Khó khăn gặp phải:
++ Kiến thức về ngôn ngữ lập trình của em không được tốt , nên khi nhìn vào ngôn ngữ java em không hiểu lắm nên một số chương trình em chưa thể làm nó trọn vẹn nên em làm in xuất ra màn hình, khai báo cấu trúc, tạo file customer.dat để đọc ghi dữ liệu.
