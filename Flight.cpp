@@ -71,4 +71,4 @@ int main(){
 				printf("\n...NHAP KHACH HANG THANH CONG !!!...\n");
 				break;
 			}
-{
+	}
